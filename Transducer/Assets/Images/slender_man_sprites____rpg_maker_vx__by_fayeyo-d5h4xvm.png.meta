@@ -1,0 +1,1527 @@
+fileFormatVersion: 2
+guid: 5814f70afc92fd049a3c0c94f9a96df1
+timeCreated: 1524503913
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_0
+    21300002: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_1
+    21300004: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_2
+    21300006: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_3
+    21300008: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_4
+    21300010: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_5
+    21300012: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_6
+    21300014: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_7
+    21300016: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_8
+    21300018: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_9
+    21300020: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_10
+    21300022: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_11
+    21300024: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_12
+    21300026: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_13
+    21300028: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_14
+    21300030: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_15
+    21300032: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_16
+    21300034: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_17
+    21300036: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_18
+    21300038: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_19
+    21300040: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_20
+    21300042: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_21
+    21300044: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_22
+    21300046: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_23
+    21300048: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_24
+    21300050: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_25
+    21300052: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_26
+    21300054: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_27
+    21300056: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_28
+    21300058: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_29
+    21300060: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_30
+    21300062: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_31
+    21300064: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_32
+    21300066: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_33
+    21300068: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_34
+    21300070: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_35
+    21300072: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_36
+    21300074: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_37
+    21300076: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_38
+    21300078: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_39
+    21300080: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_40
+    21300082: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_41
+    21300084: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_42
+    21300086: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_43
+    21300088: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_44
+    21300090: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_45
+    21300092: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_46
+    21300094: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_47
+    21300096: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_48
+    21300098: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_49
+    21300100: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_50
+    21300102: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_51
+    21300104: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_52
+    21300106: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_53
+    21300108: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_54
+    21300110: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_55
+    21300112: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_56
+    21300114: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_57
+    21300116: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_58
+    21300118: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_59
+    21300120: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_60
+    21300122: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_61
+    21300124: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_62
+    21300126: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_63
+    21300128: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_64
+    21300130: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_65
+    21300132: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_66
+    21300134: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_67
+    21300136: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_68
+    21300138: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_69
+    21300140: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_70
+    21300142: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_71
+    21300144: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_72
+    21300146: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_73
+    21300148: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_74
+    21300150: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_75
+    21300152: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_76
+    21300154: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_77
+    21300156: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_78
+    21300158: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_79
+    21300160: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_80
+    21300162: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_81
+    21300164: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_82
+    21300166: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_83
+    21300168: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_84
+    21300170: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_85
+    21300172: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_86
+    21300174: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_87
+    21300176: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_88
+    21300178: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_89
+    21300180: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_90
+    21300182: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_91
+    21300184: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_92
+    21300186: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_93
+    21300188: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_94
+    21300190: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_95
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 25
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slender_man_sprites____rpg_maker_vx__by_fayeyo-d5h4xvm_95
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1 @@
+knob - https://github.com/fabiobiondi/angular-tweenmax-draggable-knob
